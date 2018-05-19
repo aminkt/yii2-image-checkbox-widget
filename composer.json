@@ -1,0 +1,28 @@
+{
+    "name": "aminkt/yii2-imageCheckbox-widget",
+    "description": "ImageCheckbox Widget for Yii 2",
+    "keywords": ["yii", "imageCheckbox"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Amin Keshavarz",
+            "email": "ak_1596@yahoo.com"
+        }
+    ],
+    "support": {
+        "issues": "https://gitlab.com/aminkt/yii2-imageCheckbox-widget/issues",
+        "source": "https://gitlab.com/aminkt/yii2-imageCheckbox-widget"
+    },
+    "require": {
+        "yiisoft/yii2": "*",
+        "bower-asset/imgcheckbox": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "aminkt\\widgets\\imageCheckbox\\": ""
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

@@ -1,5 +1,5 @@
 {
-    "name": "aminkt/yii2-imageCheckbox-widget",
+    "name": "aminkt/yii2-image-checkbox-widget",
     "description": "ImageCheckbox Widget for Yii 2",
     "keywords": ["yii", "imageCheckbox"],
     "type": "yii2-extension",

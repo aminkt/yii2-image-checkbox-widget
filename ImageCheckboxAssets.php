@@ -35,7 +35,7 @@ use yii\web\AssetBundle;
  */
 class ImageCheckboxAssets extends AssetBundle
 {
-    public $sourcePath = '@bower/imageCheckbox';
+    public $sourcePath = '@bower/imgcheckbox';
     public $css = [];
     public $js = [
         'jquery.imgcheckbox.js',

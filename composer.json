@@ -11,8 +11,8 @@
         }
     ],
     "support": {
-        "issues": "https://gitlab.com/aminkt/yii2-imageCheckbox-widget/issues",
-        "source": "https://gitlab.com/aminkt/yii2-imageCheckbox-widget"
+        "issues": "https://github.com/aminkt/yii2-imageCheckbox-widget/issues",
+        "source": "https://github.com/aminkt/yii2-imageCheckbox-widget"
     },
     "require": {
         "yiisoft/yii2": "*",
